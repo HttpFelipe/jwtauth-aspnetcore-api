@@ -1,5 +1,7 @@
 # JWTAuth ASP.NET Core API
 
+<img src="https://miro.medium.com/v2/resize:fit:1358/1*rwXpcs52WE3ZpujqcPLZZg.png">
+
 Este é um projeto que implementa autenticação baseada em tokens JWT (JSON Web Tokens) em uma API ASP.NET Core. O projeto contém duas controllers.
 
 # Controllers
